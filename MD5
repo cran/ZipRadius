@@ -1,0 +1,17 @@
+971974661b1ee7756a80310c6db78301 *DESCRIPTION
+ebadbb4c92d08ced6433f5c6c7c32805 *NAMESPACE
+7ba637b83096035083bb87a35b064d6a *R/ZipRadius.R
+4718cf828d045250091b2d7a64771af3 *R/sysdata.rda
+af650573ce249635ae75e2f36312f2b2 *README.md
+5e1a622b46cb4f37b4f191914ff265fe *build/vignette.rds
+4925ab3c894af531e652f41e7bd4bdfc *inst/doc/ZipRadius.R
+ee3567839544e012e0a044a48c846aba *inst/doc/ZipRadius.Rmd
+25000fc0bef7616b9d1b4b05ff43d0c4 *inst/doc/ZipRadius.html
+eb0a2f3bd849950ece6fac2c787375cb *man/getStates.Rd
+98863f0a7875eba8d93fac3a4a8a845e *man/getZipPop.Rd
+bd041bb5e5df06b679f160d127ce4eca *man/getZips.Rd
+fd5cd879b377055314044f33a58f29af *man/zipRadius.Rd
+5879a78e1862d836b4dcbcc1e4cdd499 *tests/testZipRadius.R
+eeaf6e608823b5314c54900e282a5060 *vignettes/500miFrom30316.png
+ee3567839544e012e0a044a48c846aba *vignettes/ZipRadius.Rmd
+91d346416a396c38e207c7b19e908126 *vignettes/rsconnect/documents/ZipRadius.Rmd/rpubs.com/rpubs/Document.dcf
